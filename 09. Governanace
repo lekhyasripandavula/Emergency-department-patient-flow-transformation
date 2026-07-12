@@ -1,1 +1,324 @@
+# PROJECT GOVERNANCE
 
+
+## Purpose
+The purpose of this Project Governance Framework is to define the management structure, decision-making processes, reporting arrangements, and controls required to successfully deliver the Emergency Department Patient Flow Transformation project.
+Effective governance ensures that the project remains aligned with organisational objectives, maintains accountability, manages risks effectively, and delivers expected benefits.
+
+
+# GOVERNANCE PRINCIPLES
+
+The project will operate using the following governance principles:
+
+## Accountability
+Clear ownership will be established for project decisions, risks, deliverables, and outcomes.
+
+## Transparency
+Project progress, risks, issues, and decisions will be communicated openly to relevant stakeholders.
+
+## Controlled Decision-Making
+Major decisions, changes, and approvals will follow a structured process.
+
+## Continuous Assurance
+The project will be regularly reviewed to ensure quality, compliance, and alignment with objectives.
+
+
+# PROJECT GOVERNANCE STRUCTURE 
+
+The governance structure consists of:
+
+## Project Board
+The Project Board provides strategic direction, approves major decisions, and ensures the project delivers organisational benefits.
+
+The Project Board includes:
+- Executive Sponsor
+- Clinical Lead
+- Digital Transformation Lead
+- Finance Representative
+- Information Governance Representative
+- Project Manager
+
+Responsibilities:
+- Approve project direction
+- Review project performance
+- Approve major changes
+- Resolve escalated issues
+- Support risk decisions
+
+
+# EXECUTIVE SPONSOR 
+
+The Executive Sponsor provides senior-level leadership and ensures the project aligns with NHS organisational priorities.
+
+Responsibilities:
+- Approve project initiation
+- Secure organisational support
+- Approve major funding decisions
+- Remove high-level barriers
+- Champion project benefits
+
+
+# PROJECT MANAGER 
+
+The Project Manager is responsible for day-to-day project management and delivery.
+
+Responsibilities:
+- Manage project schedule
+- Coordinate project teams
+- Monitor risks and issues
+- Produce project reports
+- Manage stakeholders
+- Control project changes
+- Ensure successful handover
+
+
+# PROJECT TEAM
+
+The project team supports delivery activities across clinical, technical, operational, and governance areas.
+
+Team members include:
+- Business Analyst
+- Clinical Representatives
+- IT Specialists
+- Cybersecurity Team
+- Information Governance Team
+- Change Management Team
+- Finance Team
+- Procurement Team
+
+
+# GOVERNANCE MEETINGS
+
+## Project Team Meeting
+
+Frequency: Weekly
+
+Purpose:
+- Review project progress
+- Discuss operational challenges
+- Track actions
+- Manage issues
+
+Participants: Project Manager and delivery team.
+
+
+## Project Board Meeting
+
+Frequency: Monthly
+
+Purpose:
+- Review overall project status
+- Approve decisions
+- Review risks
+- Monitor benefits
+
+Participants: Executive Sponsor and senior stakeholders.
+
+
+## Technical Review Meeting
+
+Frequency: Bi-weekly
+
+Purpose:
+- Review technical progress
+- Discuss integration
+- Manage cybersecurity concerns
+
+Participants: IT, Digital, Security, and Supplier teams.
+
+
+# PROJECT REPORTING FRAMEWORK
+
+The Project Manager will provide structured reporting throughout the project lifecycle.
+
+
+# WEEKLY PROJECT STATUS REPORT 
+
+The weekly report includes:
+- Completed activities
+- Upcoming activities
+- Current risks
+- Issues requiring attention
+- Decisions required
+- Resource updates
+
+
+# MONTHLY PROJECT BOARD REPORTING 
+
+The monthly report includes:
+- Overall project status
+- Timeline progress
+- Budget position
+- Risk summary
+- Key decisions
+- Benefit progress
+- Escalations
+
+
+# PROJECT STATUS REPORTING (RAG)
+
+The project will use RAG status reporting:
+
+## Green
+Project is progressing as planned.
+
+## Amber
+Potential issue requiring attention.
+
+## Red
+Major issue requiring escalation or intervention.
+
+
+
+# DECISION MANAGEMENT PROCESS
+
+All significant project decisions will follow a structured process.
+
+The process includes:
+1. Identify decision required.
+2. Analyse available options.
+3. Assess impact on scope, cost, time, and risk.
+4. Obtain approval from appropriate authority.
+5. Record decision in decision log.
+6. Communicate outcome to stakeholders.
+
+
+# CHANGE CONTROL PROCESS
+Changes to project scope, budget, timeline, or requirements will follow formal change control.
+
+
+The process includes:
+
+## Change Request Submission
+A stakeholder identifies a required change.
+
+
+
+## Impact Assessment
+
+The Project Manager evaluates:
+- Cost impact
+- Timeline impact
+- Resource impact
+- Risk impact
+
+
+
+## Approval Decision
+
+The appropriate governance authority reviews and approves or rejects the change.
+
+
+
+## Change Implementation
+
+Approved changes are incorporated into project plans.
+
+
+# PROJECT ASSURANCE
+
+Project assurance activities ensure the project is delivered effectively.
+
+
+Assurance areas include:
+
+## Clinical Assurance
+Ensures patient safety is protected.
+
+## Information Governance Assurance
+
+Ensures compliance with:
+- UK GDPR
+- Data Protection Act 2018
+- NHS information governance standards
+
+## Technical Assurance
+
+Ensures:
+- System reliability
+- Cybersecurity controls
+- Integration quality
+
+## Financial Assurance
+
+Ensures:
+- Budget control
+- Value for money
+- Financial reporting accurately 
+
+# PROJECT CONTROLS 
+
+The following controls will be maintained:
+
+## RAID Management
+
+Tracking:
+- Risks
+- Assumptions
+- Issues
+- Dependencies
+
+## Change Log
+Records approved and rejected changes.
+
+## Decision Log
+Records important project decisions.
+
+## Action Log
+Tracks outstanding tasks and responsibilities.
+
+## Lessons Learned Log
+Captures improvements throughout delivery.
+
+
+
+# STAGE GATE REVIEWS
+
+The project will use stage gates to ensure readiness before moving between phases.
+
+## Stage Gate 1: Project Initiation Approval
+
+Confirms:
+- Business case approval
+- Governance setup
+- Project authority
+
+
+
+## Stage Gate 2: Design Approval
+
+Confirms:
+- Requirements completed
+- Solution design approved
+- Risks reviewed
+
+
+## Stage Gate 3: Implementation Readiness
+
+Confirms:
+- Testing completed
+- Training completed
+- Stakeholders prepared
+
+
+## Stage Gate 4: Project Closure Approval
+
+Confirms:
+- Deliverables completed
+- Handover completed
+- Benefits tracking established
+
+
+# GOVERNANCE AND SUCCESS MEASURES 
+
+Governance will be considered effective when:
+- Decisions are made efficiently.
+- Risks are controlled.
+- Stakeholders receive accurate information.
+- Project progress is transparent.
+- Accountability is clearly defined.
+- Benefits are achieved.
+
+# CONCLUSION 
+Strong governance provides the foundation for successful healthcare transformation.
+Through clear accountability, structured reporting, effective decision-making, and continuous assurance, the project can be delivered safely, transparently, and successfully.
