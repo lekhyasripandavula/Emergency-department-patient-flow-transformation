@@ -1,0 +1,439 @@
+# PROJECT MANAGEMENT AND ARTECRAFTS
+
+## Purpose
+
+The purpose of this folder is to demonstrate the project management tools and control documents used throughout the Emergency Department Patient Flow Transformation project.
+
+These artefacts support effective planning, monitoring, communication, governance, and decision-making throughout the project lifecycle.
+
+
+
+# 1. RAID Log
+
+## Purpose
+
+The RAID Log provides a central location for tracking:
+
+- Risks
+- Assumptions
+- Issues
+- Dependencies
+
+The Project Manager maintains the RAID Log throughout the project to ensure visibility of factors that may impact delivery.
+
+
+
+## Risks
+
+Examples:
+
+### Cybersecurity Risk
+
+Description:
+
+Healthcare systems may be targeted by cyber threats.
+
+Impact:
+
+Potential data security issues and service disruption.
+
+Mitigation:
+
+Security testing, access controls, monitoring, and incident response planning.
+
+Owner:
+
+Cybersecurity Lead
+
+
+
+### Staff Adoption Risk
+
+Description:
+
+Healthcare professionals may be reluctant to adopt new digital processes.
+
+Impact:
+
+Reduced project benefits.
+
+Mitigation:
+
+Training, communication, and user involvement.
+
+Owner:
+
+Change Manager
+
+
+
+## Assumptions
+
+Examples:
+
+- Required funding will remain available.
+- Clinical teams will participate in project activities.
+- Existing systems will support integration.
+- Leadership support will continue.
+
+
+
+## Issues
+
+Examples:
+
+### System Integration Challenge
+
+Description:
+
+Existing hospital systems may require additional technical work.
+
+Action:
+
+Technical assessment and supplier support required.
+
+Owner:
+
+IT Lead
+
+
+
+## Dependencies
+
+Examples:
+
+- Supplier availability
+- Clinical team participation
+- Information Governance approval
+- Technical infrastructure readiness
+
+
+
+# 2. Risk Register
+
+## Purpose
+
+The Risk Register provides detailed tracking of project risks and ensures appropriate mitigation actions are implemented.
+
+Risk management helps the project team identify problems before they affect delivery.
+
+
+
+## Risk Categories
+
+Risks are monitored across:
+
+- Clinical risks
+- Technical risks
+- Cybersecurity risks
+- Financial risks
+- Operational risks
+- Change management risks
+
+
+
+# 3. Issue Log
+
+## Purpose
+
+The Issue Log records problems that have already occurred and require action.
+
+Unlike risks, issues are current problems affecting project delivery.
+
+
+
+## Issue Management Process
+
+Issues are managed through:
+
+1. Issue identification
+2. Impact assessment
+3. Ownership assignment
+4. Resolution planning
+5. Closure confirmation
+
+
+
+# Example Issue
+
+Issue:
+
+Staff availability affecting training sessions.
+
+Impact:
+
+May delay user readiness.
+
+Action:
+
+Reschedule sessions and provide flexible training options.
+
+Owner:
+
+Change Management Lead
+
+Status:
+
+Open
+
+
+
+# 4. Decision Log
+
+## Purpose
+
+The Decision Log records important project decisions and ensures transparency.
+
+
+
+## Decision Management Process
+
+Each decision includes:
+
+- Decision description
+- Options considered
+- Impact assessment
+- Decision owner
+- Final outcome
+
+
+
+# Example Decision
+
+Decision:
+
+Approve phased implementation approach.
+
+Reason:
+
+Reduces implementation risk and allows user feedback.
+
+Decision Owner:
+
+Project Board
+
+Outcome:
+
+Approved
+
+
+
+# 5. Change Request Process
+
+## Purpose
+
+The Change Request Process ensures that modifications to project scope, budget, timeline, or requirements are properly assessed and controlled.
+
+
+
+# Change Request Lifecycle
+
+## Step 1: Change Identification
+
+A stakeholder identifies a required change.
+
+↓
+
+## Step 2: Impact Assessment
+
+The Project Manager evaluates:
+
+- Cost impact
+- Timeline impact
+- Resource impact
+- Risk impact
+
+↓
+
+## Step 3: Approval
+
+The appropriate governance authority reviews the request.
+
+↓
+
+## Step 4: Implementation
+
+Approved changes are incorporated into project plans.
+
+
+
+# Example Change Request
+
+Change:
+
+Add additional reporting dashboards for clinical managers.
+
+Reason:
+
+Improve decision-making visibility.
+
+Impact:
+
+Requires additional development resources.
+
+Decision:
+
+Pending approval.
+
+
+
+# 6. RACI Responsibility Framework
+
+## Purpose
+
+The RACI framework defines responsibility and accountability for project activities.
+
+RACI means:
+
+## Responsible
+
+Person completing the work.
+
+## Accountable
+
+Person who owns the outcome.
+
+## Consulted
+
+Person providing expertise.
+
+## Informed
+
+Person who receives updates.
+
+
+
+# Example RACI Application
+
+Project Planning:
+
+Responsible:
+
+Project Manager
+
+Accountable:
+
+Executive Sponsor
+
+Consulted:
+
+Clinical Lead and IT Lead
+
+Informed:
+
+Project Team
+
+
+
+# 7. Weekly Project Status Report
+
+## Purpose
+
+The weekly status report provides project visibility and supports decision-making.
+
+
+
+# Weekly Report Structure
+
+## Project Status
+
+Current overall project health.
+
+## Completed Activities
+
+Work completed during the reporting period.
+
+## Upcoming Activities
+
+Planned tasks for the next period.
+
+## Risks and Issues
+
+Current concerns requiring attention.
+
+## Decisions Required
+
+Actions requiring stakeholder approval.
+
+## Resource Updates
+
+Current team availability and requirements.
+
+
+
+# 8. Lessons Learned Register
+
+## Purpose
+
+The Lessons Learned Register captures knowledge gained during the project.
+
+This supports continuous improvement and helps future projects avoid similar challenges.
+
+
+
+# Example Lessons Learned
+
+Lesson:
+
+Early engagement with clinical teams improves adoption.
+
+Impact:
+
+Reduced resistance during implementation.
+
+Recommendation:
+
+Include healthcare users from project initiation.
+
+
+
+# 9. Project Dashboard
+
+## Purpose
+
+The project dashboard provides a high-level view of project performance.
+
+The dashboard monitors:
+
+## Timeline
+
+- Milestone progress
+- Delivery status
+
+## Budget
+
+- Planned costs
+- Actual expenditure
+
+## Risks
+
+- Active risks
+- Risk trends
+
+## Benefits
+
+- KPI progress
+- Improvement results
+
+
+
+# 10. Document Management Approach
+
+All project documents will follow controlled document management practices.
+
+Documents will include:
+
+- Version numbers
+- Approval dates
+- Document owners
+- Review dates
+
+This ensures information remains accurate and traceable.
+
+
+
+# Conclusion
+
+Project management artefacts provide the controls required to successfully deliver a complex healthcare transformation project.
+
+Through structured tracking, reporting, decision management, and documentation control, the project team can maintain transparency, manage uncertainty, and deliver successful outcomes.
