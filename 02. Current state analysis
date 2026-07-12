@@ -31,10 +31,10 @@ Current process:
 
  1. Poor Bed Visibility
 
-Problem
+## Problem
 Clinical teams do not have real-time visibility of available beds across the hospital.
 
-Impact
+## Impact
  -Delays in patient movement
  -Increased Emergency Department congestion
  -Longer waiting times
@@ -43,38 +43,39 @@ Impact
 
  2. Manual Communication Between Teams
 
-Problem
+## Problem
 Information is shared through phone calls, emails, and manual updates.
 
-Impact
+## Impact
  -Delayed decisions
  -Increased administrative workload
  -Communication errors
 
  3. Reactive Decision Making
 
-Problem
+## Problem
 Managers respond to problems after they occur rather than predicting demand.
 
-Impact
+## Impact
  -Increased pressure during busy periods
  -Difficulty managing resources effectively
 
  4. Delayed Discharge Process
 
-Problem
+## Problem
 Patients who are medically ready may experience delays due to administrative processes, transport arrangements, or communication issues.
 
-Impact
+## Impact
  -Reduced bed availability
  -Increased hospital costs
  -Longer patient waiting times
 
  5. Lack of Integrated Data
-Problem
+
+## Problem
 Information exists across multiple systems without a single operational view.
 
-Impact
+## Impact
  -Difficult decision-making
  -Poor forecasting
  -Limited performance monitoring
@@ -83,18 +84,18 @@ Impact
 
 # Baseline Performance Indicators
 
-MEASURE 	                   CURRENT STATE
-Average ED waiting time 	   8 hours
-Bed occupancy rate      	   96%
-Ambulance handover delays	   Increasing
-Average bed allocation time	 40 minutes
-Delayed discharge rate	     32%
-Staff satisfaction	         Declining
+MEASURE 	                     CURRENT STATE
+Average ED waiting time 	     8 hours
+Bed occupancy rate      	     96%
+Ambulance handover delays	    Increasing
+Average bed allocation time	  40 minutes
+Delayed discharge rate	       32%
+Staff satisfaction	           Declining
 
 
 # STAKEHOLDER PAIN POINTS
 
-Stakeholder         Current Challenge 
+Stakeholder            Current Challenge 
  Doctors               Delays finding available beds 
  Nurses                Increased workload and coordination issues 
  Operations Managers   Lack of real-time visibility 
