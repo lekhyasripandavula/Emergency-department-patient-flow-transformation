@@ -1,1 +1,128 @@
+CURRENT STATE ANALYSIS
 
+PURPOSE
+The purpose of this analysis is to understand the existing Emergency Department patient flow process, identify operational challenges, analyse root causes, and establish the baseline for designing improvement solutions.
+
+CURRENT SITUATION
+Northbridge NHS Foundation Trust Emergency Department is experiencing increasing operational pressure due to rising patient demand, limited bed availability, delayed discharge processes, and inefficient communication between departments.
+The current approach relies heavily on manual processes, separate systems, and reactive decision-making, making it difficult for operational teams to respond quickly to changing demand.
+
+
+# CURRENT PATIENT FLOW PROCESS (As-Is)
+
+Current process:
+
+1. Patient arrives at Emergency Department
+2. Patient registration and initial assessment
+3. Clinical assessment and treatment
+4. Decision made:
+ -Admit patient
+ -Discharge patient
+ -Transfer patient
+5. If admitted:
+ -Bed requested
+ -Ward availability checked manually
+ -Patient waits for bed allocation
+6. Patient transferred to ward
+7. Discharge process begins when clinically appropriate
+
+
+# CURRENT CHALLENGES IDENTIFIED 
+
+ 1. Poor Bed Visibility
+
+Problem
+Clinical teams do not have real-time visibility of available beds across the hospital.
+
+Impact
+ -Delays in patient movement
+ -Increased Emergency Department congestion
+ -Longer waiting times
+
+
+
+ 2. Manual Communication Between Teams
+
+Problem
+Information is shared through phone calls, emails, and manual updates.
+
+Impact
+ -Delayed decisions
+ -Increased administrative workload
+ -Communication errors
+
+ 3. Reactive Decision Making
+
+Problem
+Managers respond to problems after they occur rather than predicting demand.
+
+Impact
+ -Increased pressure during busy periods
+ -Difficulty managing resources effectively
+
+ 4. Delayed Discharge Process
+
+Problem
+Patients who are medically ready may experience delays due to administrative processes, transport arrangements, or communication issues.
+
+Impact
+ -Reduced bed availability
+ -Increased hospital costs
+ -Longer patient waiting times
+
+ 5. Lack of Integrated Data
+Problem
+Information exists across multiple systems without a single operational view.
+
+Impact
+ -Difficult decision-making
+ -Poor forecasting
+ -Limited performance monitoring
+
+
+
+# Baseline Performance Indicators
+
+MEASURE 	                   CURRENT STATE
+Average ED waiting time 	   8 hours
+Bed occupancy rate      	   96%
+Ambulance handover delays	   Increasing
+Average bed allocation time	 40 minutes
+Delayed discharge rate	     32%
+Staff satisfaction	         Declining
+
+
+# STAKEHOLDER PAIN POINTS
+
+Stakeholder         Current Challenge 
+ Doctors               Delays finding available beds 
+ Nurses                Increased workload and coordination issues 
+ Operations Managers   Lack of real-time visibility 
+ Patients              Long waiting times and uncertainty 
+ IT Team               Multiple disconnected systems 
+ Finance Team          Rising operational costs 
+
+
+# CURRENT TECHNOLOGY LANDSCAPE 
+   
+   Existing systems include:
+1. Electronic Patient Records (EPR)
+2. Hospital Management Systems
+3. Bed Management Tools
+4. Reporting Systems
+However, systems are not fully integrated, creating information gaps.
+
+
+# CURRENT STATE 
+The analysis identified that the main challenge is not only a lack of resources, but inefficient processes, limited data visibility, and fragmented communication.
+
+A future solution should focus on:
+1. Realtime information sharing
+2. Improved patient flow processes
+3. Better operational decision-making
+4. Staff adoption and change management
+
+
+
+# NEXT STEP
+The next phase will focus on detailed root cause analysis to identify why these challenges occur and determine the most effective solution approach.
