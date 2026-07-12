@@ -1,1 +1,310 @@
+# PROJECT PLANNING 
 
+## Purpose
+
+The purpose of this Project Planning document is to define how the Emergency Department Patient Flow Transformation project will be delivered.
+This plan outlines the project activities, delivery approach, timeline, resources, milestones, dependencies, and management approach required to successfully implement the transformation programme.
+
+
+# PROJECT DELIVERY APPROACH 
+
+The project will follow a structured hybrid delivery approach combining:
+
+## PRINCE2 Principles
+
+Used for:
+- Governance
+- Business justification
+- Risk management
+- Stage approvals
+- Project control
+
+## Agile Delivery Practices
+
+Used for:
+- User feedback
+- Solution improvement
+- Testing
+- Iterative development
+
+This approach allows strong governance while ensuring healthcare users are involved throughout delivery.
+
+
+# WORK BREAKDOWN STRUCTURE  (WBS)
+
+The project will be divided into five major delivery phases.
+
+
+
+# Phase 1: PROJECT INITIATION 
+
+Duration: Month 1 - Month 2
+
+Activities:
+- Confirm project objectives
+- Approve business case
+- Establish project governance
+- Identify stakeholders
+- Define project requirements
+- Create communication approach
+
+Deliverables:
+- Project Charter
+- Governance Structure
+- Stakeholder Management Plan
+- Initial Project Plan
+
+
+# Phase 2: ANALYSIS AND SOLUTION DESIGN 
+
+Duration: Month 3 - Month 5
+
+Activities:
+- Analyse current processes
+- Gather user requirements
+- Review existing systems
+- Define solution requirements
+- Complete security assessment
+- Design future patient flow process
+
+Deliverables:
+- Requirements Document
+- Future State Process Map
+- Solution Design
+- Data Protection Assessment
+
+
+# Phase 3: DEVELOPMENT AND IMPLEMENTATION PREPARATION 
+
+Duration: Month 6 - Month 8
+
+Activities:
+- Configure digital solution
+- Complete system integration
+- Develop training materials
+- Perform technical testing
+- Prepare implementation plan
+
+Deliverables:
+- Configured Solution
+- Testing Plan
+- Training Materials
+- Implementation Readiness Report
+
+
+# Phase 4: IMPLEMENTATION AND DEPLOYMENT 
+
+Duration: Month 9 - Month 11
+
+Activities:
+- Pilot implementation
+- User acceptance testing
+- Staff training
+- System rollout
+- Monitor performance
+- Manage issues
+
+Deliverables:
+- Live Solution
+- Trained Users
+- Implementation Report
+- Performance Monitoring Dashboard
+
+
+# Phase 5: CLOSURE AND HANDOVER
+Duration: 12 Months
+
+Activities:
+- Review project outcomes
+- Complete handover
+- Measure initial benefits
+- Capture lessons learned
+- Close project
+
+Deliverables:
+- Project Closure Report
+- Lessons Learned Document
+- Operational Handover Pack
+- Benefits Realisation Plan
+
+# PROJECT MILESTONES
+
+## Milestone 1
+
+Project Approval Completed
+-Target: End of Month 1
+-Success Criteria: Business Case approved and project authorised.
+
+
+## Milestone 2
+
+Requirements Completed
+-Target: End of Month 3
+-Success Criteria: Clinical and technical requirements agreed.
+
+## Milestone 3
+
+Solution Design Approved
+-Target: End of Month 5
+-Success Criteria: Future solution approved by stakeholders.
+
+## Milestone 4
+
+Testing Completed
+-Target: End of Month 8
+-Success Criteria: Solution successfully tested.
+
+ 
+## Milestone 5
+
+Go-Live Completed
+-Target: End of Month 11
+-Success Criteria: Solution implemented and users trained.
+
+
+## Milestone 6
+
+Project Closure
+-Target: End of Month 12
+-Success Criteria: Project transitioned into business-as-usual operations.
+
+
+# RESOURCE PLAN 
+
+The project requires a multidisciplinary team.
+
+Key resources include:
+
+## Project Manager
+
+Responsible for:
+- Overall delivery
+- Planning
+- Reporting
+- Risk management
+- Stakeholder coordination
+
+
+## Business Analyst
+
+Responsible for:
+- Requirements gathering
+- Process analysis
+- Documentation
+
+## Clinical Lead
+
+Responsible for:
+- Clinical requirements
+- Patient safety considerations
+
+
+## IT Project Team
+
+Responsible for:
+- System implementation
+- Integration
+- Technical support
+
+
+## Cybersecurity and Information Governance Team
+
+Responsible for:
+- Security assessment
+- GDPR compliance
+- Data protection
+
+
+## Change Management Team
+
+Responsible for:
+- Training
+- Communication
+- Adoption support
+
+## Finance and Procurement Team
+
+Responsible for:
+- Budget monitoring
+- Supplier management
+- Contract processes
+
+# PROJECT DEPENDENCIES 
+
+The project depends on:
+
+## Leadership Approval
+The project requires executive approval before implementation.
+
+## Clinical Engagement
+Healthcare professionals must participate in requirements gathering and testing.
+
+## Technology Integration
+Existing hospital systems must support integration.
+
+## Supplier Availability
+
+Technology suppliers must deliver required services within agreed timelines.
+
+## Staff Availability
+Clinical teams must have time available for training and testing.
+
+
+# PLANNING ASSUMPTIONS 
+
+The project assumes:
+- Funding remains available.
+- Stakeholders remain engaged.
+- Required technology can be implemented.
+- Staff training can be completed.
+- Existing systems can support integration.
+
+
+# PLANNING CONSTRAINTS
+
+The project constraints include:
+- Healthcare operational pressures
+- Limited staff availability
+- Regulatory requirements
+- Budget limitations
+- Patient safety requirements
+
+
+# PROGRESS MONITORING APPROACH 
+
+Project progress will be monitored through:
+- Weekly project meetings
+- Milestone tracking
+- Risk reviews
+- Budget monitoring
+- Status reporting
+- Steering committee updates
+
+
+# PROJECT REPORTING 
+
+The Project Manager will provide:
+
+## Weekly Reports
+
+Including:
+- Completed activities
+- Upcoming tasks
+- Issues
+- Risks
+- Decisions required
+
+
+## Monthly Reports
+
+Including:
+- Overall project status
+- Budget position
+- Timeline progress
+- Benefits tracking
+- Major risks
+
+
+# CONCLUSION
+The Project Planning approach provides a structured roadmap for delivering the Emergency Department Patient Flow Transformation programme.
+Through effective scheduling, resource management, governance, and progress monitoring, the project team can successfully deliver the required improvements while maintaining quality, safety, and stakeholder confidence.
