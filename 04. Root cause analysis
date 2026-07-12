@@ -1,1 +1,204 @@
+# ROOT CAUSE ANALYSIS
 
+## PURPOSE
+
+The purpose of this analysis is to identify the underlying causes contributing to Emergency Department patient flow challenges.
+Rather than treating symptoms, this analysis investigates the reasons behind long waiting times, delayed patient movement, and inefficient hospital processes.
+
+
+# PROBLEM STATEMENT 
+
+## MAIN PROBLEM
+
+Emergency Department patients experience extended waiting times before receiving appropriate care and being transferred to the correct location.
+
+
+# PROBLEM BREAKDOWN 
+
+## SYMPTOM
+
+High Emergency Department waiting times.
+
+↓
+
+## IMPACT
+
+- Poor patient experience
+- Increased staff pressure
+- Ambulance delays
+- Reduced operational efficiency
+
+↓
+
+## INVESTIGATION
+
+Why are waiting times increasing?
+
+
+
+# 5 WHY'S ANALYSIS
+
+## PROBLEM:
+
+Patients experience long Emergency Department waiting times.
+
+
+## Why 1:
+
+### Why are patients waiting for long periods?
+
+Because patients cannot be transferred quickly from Emergency Department to appropriate wards.
+
+
+## Why 2:
+
+### Why are transfers delayed?
+
+Because available beds are not identified quickly and communication between teams is inefficient.
+
+
+## Why 3:
+
+### Why is bed availability difficult to identify?
+
+Because information is stored across multiple systems and updated manually.
+
+
+## Why 4:
+
+### Why are systems not providing real-time information?
+
+Because existing processes were developed separately across departments without full integration.
+
+
+## Why 5:
+
+### Why has integration not been achieved?
+
+Because there has been limited investment in coordinated digital transformation and governance.
+
+
+
+# ROOT CAUSE IDENTIFIED 
+
+The primary root causes are:
+  1. Lack of real-time visibility of hospital capacity.
+  2. Fragmented information systems.
+  3. Manual communication processes.
+  4. Limited predictive capability.
+  5. Absence of standardised patient flow governance.
+
+
+
+# FISHBONE ANALYSIS
+
+## PEOPLE
+
+Causes:
+ - Staff shortages
+ - High workload
+ - Limited training
+ - Communication challenges
+
+Impact:
+ - Increased delays and operational pressure.
+
+
+
+## PROCESS
+
+Causes:
+ - Manual bed allocation
+ - Inefficient discharge processes
+ - Lack of standard workflows
+
+Impact:
+ -Slower patient movement.
+
+
+
+## TECHNOLOGY
+
+Causes:
+ - Multiple disconnected systems
+ - Limited data integration
+ - Lack of predictive analytics
+
+Impact:
+ -Poor decision-making.
+
+
+## DATA
+
+Causes:
+ - Information stored in different systems
+ - Delayed reporting
+ - Limited real-time dashboards
+
+Impact:
+ -Reactive management instead of proactive planning.
+
+
+
+## GOVERNANCE
+
+Causes:
+- Limited ownership of patient flow improvement
+- Lack of consistent performance monitoring
+
+Impact:
+-Slow improvement implementation.
+
+
+
+# CURRENT PROCESS FAILURE POINTS 
+
+ Process Stage                   Failure                            Impact 
+
+ Patient arrival              High demand periods               Increased queues 
+ Assessment                   Limited visibility                Delays 
+ Bed allocation               Manual checking                   Slow transfers 
+ Discharge                    Administrative delays             Beds unavailable 
+ Reporting                    Delayed information               Poor decisions 
+
+
+
+# ROOT CAUSE SUMMARY 
+
+The analysis identified that Emergency Department delays are not caused by a single issue.
+
+The challenge is created by a combination of:
+
+- Inefficient processes
+- Poor information flow
+- Technology limitations
+- Communication gaps
+- Lack of proactive planning
+
+Therefore, the recommended improvement approach should focus on improving processes, technology, governance, and staff adoption together.
+
+
+# IMPROVEMENT OPPORTUNITIES 
+
+Based on the root causes identified:
+
+## Opportunity 1
+Implement a real-time digital patient flow dashboard.
+
+## Opportunity 2
+Improve integration between hospital systems.
+
+## Opportunity 3
+Introduce predictive analytics for demand forecasting.
+
+## Opportunity 4
+Create clear escalation and governance processes.
+
+## Opportunity 5
+Provide staff training and change support.
+
+
+# CONCLUSION
+The root cause analysis confirms that improving Emergency Department performance requires a complete transformation approach rather than a single technology solution.
+
+The next phase will define project governance, stakeholders, and delivery structure required to implement the transformation successfully.
